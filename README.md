@@ -1,2 +1,2 @@
 # envfiles
-My personal env files
+My personal env shell files
